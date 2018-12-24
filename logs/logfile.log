@@ -1,0 +1,27 @@
+[TRACE] 2018-12-24 17:35:36.885 [main] UserDaoOracle - Enter
+[INFO ] 2018-12-24 17:35:36.894 [main] UserDaoOracle - Added user to database
+[TRACE] 2018-12-24 17:35:36.895 [main] UserDaoOracle - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
+[TRACE] 2018-12-24 17:35:36.896 [main] UserDaoOracle - Enter
+[INFO ] 2018-12-24 17:35:36.896 [main] UserDaoOracle - Added user to database
+[TRACE] 2018-12-24 17:35:36.897 [main] UserDaoOracle - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
+[TRACE] 2018-12-24 17:35:36.897 [main] UserDaoOracle - Enter
+[INFO ] 2018-12-24 17:35:36.897 [main] UserDaoOracle - Added user to database
+[TRACE] 2018-12-24 17:35:36.898 [main] UserDaoOracle - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
+[TRACE] 2018-12-24 17:36:20.234 [main] UserDaoOracle - Enter
+[INFO ] 2018-12-24 17:36:20.243 [main] UserDaoOracle - Added user to database
+[TRACE] 2018-12-24 17:36:20.244 [main] UserDaoOracle - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
+[TRACE] 2018-12-24 17:36:20.246 [main] UserDaoOracle - Enter
+[INFO ] 2018-12-24 17:36:20.246 [main] UserDaoOracle - Added user to database
+[TRACE] 2018-12-24 17:36:20.247 [main] UserDaoOracle - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
+[TRACE] 2018-12-24 17:36:20.247 [main] UserDaoOracle - Enter
+[INFO ] 2018-12-24 17:36:20.247 [main] UserDaoOracle - Added user to database
+[TRACE] 2018-12-24 17:36:20.248 [main] UserDaoOracle - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
+17:37:50.133 TRACE com.example.dao.UserDaoOracle 32 addUser - Enter
+17:37:50.139 INFO  com.example.dao.UserDaoOracle 36 addUser - Added user to database
+17:37:50.140 TRACE com.example.dao.UserDaoOracle 41 addUser - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
+17:37:50.142 TRACE com.example.dao.UserDaoOracle 32 addUser - Enter
+17:37:50.142 INFO  com.example.dao.UserDaoOracle 36 addUser - Added user to database
+17:37:50.142 TRACE com.example.dao.UserDaoOracle 41 addUser - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
+17:37:50.142 TRACE com.example.dao.UserDaoOracle 32 addUser - Enter
+17:37:50.142 INFO  com.example.dao.UserDaoOracle 36 addUser - Added user to database
+17:37:50.143 TRACE com.example.dao.UserDaoOracle 41 addUser - Exit with(Optional[User [id=1, firstName=Joe, lastName=Blow, roles=[ADMIN], username=joe26, email=joe.blow@gmail.com]])
